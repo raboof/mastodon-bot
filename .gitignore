@@ -1,3 +1,4 @@
 config.edn
 package-lock.json
 /node_modules
+mastodon-bot.js
